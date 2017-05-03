@@ -50,4 +50,4 @@ There are no known bugs at this time, but please contact the creator with questi
 ## Licensing
 This application features MIT licensing.
 
-Copyright &copy; 2017 **NAME** All Rights Reserved.
+Copyright &copy; 2017 **** All Rights Reserved.
